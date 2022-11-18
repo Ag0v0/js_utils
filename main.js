@@ -3,7 +3,7 @@
  * @Autor: Ag
  * @Date: 2022-11-18 15:42:17
  * @LastEditors: Ag
- * @LastEditTime: 2022-11-18 15:43:57
+ * @LastEditTime: 2022-11-18 17:13:07
  */
-export * from "./lib";
-export * from "./lib/file";
+export * from "./src";
+export * from "./src/file";
